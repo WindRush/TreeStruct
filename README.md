@@ -3,4 +3,4 @@
 ####红黑树插入示意图
 
 
-<img src='https://github.com/WindRush/TreeStruct/blob/master/1585710187166.jpg' width='500'/>
+<img src='https://github.com/WindRush/TreeStruct/blob/master/1585710187166.jpg' width='900'/>
